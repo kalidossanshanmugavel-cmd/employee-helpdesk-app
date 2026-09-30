@@ -1,0 +1,2 @@
+LAPTOP AND DEVICE POLICY
+Company laptops and devices are provided for authorized business use. Employees must use approved security controls and must not disable endpoint protection. Loss, theft, damage or suspected compromise must be reported to IT immediately. Hardware faults should be raised through an IT helpdesk ticket.
